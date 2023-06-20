@@ -1,0 +1,53 @@
+obj_id,new_label,reason
+bottle_0351,discard,"bad sample, resembles nothing from the dataset"
+bottle_0375,discard,"bad sample, resembles nothing from the dataset"
+chair_0907,stool,"high stool, no arm supports, round elements"
+cup_0090,discard,not clear what this is
+cup_0093,discard,this is a jug
+flower_pot_0152,plant,no flowers
+flower_pot_0153,vase,no plant or flowers
+flower_pot_0154,plant,no flowers
+flower_pot_0155,vase,no plant or flowers
+flower_pot_0156,plant,no flowers
+flower_pot_0157,plant,no flowers
+flower_pot_0159,vase,no plants or flowers
+flower_pot_0160,vase,no plant or flowers
+flower_pot_0162,vase,"no plant or flowers, vase with holes on the bottom, this should probably be the real flower pot"
+flower_pot_0163,vase,no plant or flowers
+flower_pot_0164,plant,no flowers
+flower_pot_0165,plant,no flowers
+flower_pot_0166,plant,no flowers
+flower_pot_0167,discard,"no plant or flowers, no vase, seems like a missile with a propellor?"
+stool_0096,discard,corrupt sample (wrong triangulation)
+tv_stand_0269,discard,multiple objects
+mantel_0303,discard,multiple objects
+piano_0236,table,
+chair_0907,stool,
+piano_0298,discard,scene / multiple objects
+tent_0175,discard,scene / multiple objects
+tent_0170,discard,scene / multiple objects
+bench_0193,discard,pillow
+plant_0252,discard,flat object
+plant_0257,flower_pot,
+plant_0258,flower_pot,
+plant_0265,discard,flat object
+plant_0276,discard,flat object
+plant_0284,flower_pot,
+plant_0287,flower_pot,
+plant_0295,flower_pot,
+plant_0298,flower_pot,
+plant_0324,flower_pot,
+plant_0327,flower_pot,
+plant_0338,discard,flat object
+stool_0099,chair,"low sitting part, high back support"
+table_0445,desk,curved cut out
+table_0412,desk,3 sides closed in
+table_0429,desk,3 sides closed in
+table_0411,desk,3 sides closed in
+table_0456,desk,
+table_0481,desk,drawing desk
+tv_stand_0269,discard,bookshelf / scene
+person_0094,discard,flat object
+person_0107,discard,flat object
+person_0101,discard,flat object
+person_0093,discard,flat object
