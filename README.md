@@ -3,5 +3,3 @@ Repository with data errors found in "Point cloud classification with ModelNet40
 
 * `duplicates_vfinal.csv` contains the object ids for duplicate samples.
 * `relabel_vfinal.csv` holds the discarded and relabeled objects (+ explanation).
-
-WIP
